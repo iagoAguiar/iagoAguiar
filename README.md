@@ -11,6 +11,7 @@
 
 - [Java](https://www.java.com/pt-BR/)
 - [Spring](https://spring.io/)
+- [GIT](https://github.com/iagoAguiar)
 - [Swagger](https://swagger.io/)
 - [Lombok](https://projectlombok.org/)
 - [MongoDB](https://www.mongodb.com/pt-br/)
