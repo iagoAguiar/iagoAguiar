@@ -38,11 +38,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-iagoaguiar202@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:iagoaguiar202@gmail.com)](mailto:iagoaguiar202@gmail.com)
  
   
-<!--   ![Snake animation](hhttps://github.com/iagoAguiar/iagoAguiar/blob/output/github-contribution-grid-snake.svg) -->
   ![Snake animation](https://github.com/iagoAguiar/iagoAguiar/blob/output/github-contribution-grid-snake.svg)
-<!--   ![Snake animation](hhttps://github.com/iagoAguiar) -->
-
-<!--   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg) -->
  
 </div>
 
