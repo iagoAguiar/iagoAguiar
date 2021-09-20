@@ -6,6 +6,22 @@
 - 👯 Estou em busca da minha primeira oportunidade profissional como dev.
 - ⚡ Fun fact: Meu principal hobby é leitura, quando me prendo em um livro parece que eu estou passando pela jornada e não lendo uma história.
 
+### Skills
+
+
+- [Java](https://www.java.com/pt-BR/)
+- [Spring](https://spring.io/)
+- [Swagger](https://swagger.io/)
+- [Lombok](https://projectlombok.org/)
+- [MongoDB](https://www.mongodb.com/pt-br/)
+- [Mapstruct](https://mapstruct.org/)
+- [Docker](https://www.docker.com/)
+- [Bean Validation](https://beanvalidation.org/)
+- [JPA](https://www.oracle.com/java/technologies/persistence-jsp.html)
+- [Junit](https://junit.org/junit5/)
+- [Mockito](https://site.mockito.org/)
+
+
 
  <div>
   <a href="https://github.com/iagoAguiar">
