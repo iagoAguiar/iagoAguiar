@@ -26,7 +26,7 @@
   - [Mockito](https://site.mockito.org/)
 
    ##### Coming ⏳
-   - [JWT](https://jwt.io/)
+   - [Spring Security](https://spring.io/projects/spring-security)
    - [Kafka](https://kafka.apache.org/)
 
 <br/>
