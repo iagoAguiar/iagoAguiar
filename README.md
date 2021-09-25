@@ -26,8 +26,8 @@
   - [Mockito](https://site.mockito.org/)
 
    ##### Coming ⏳
-   - [Spring Security](https://spring.io/projects/spring-security)
    - [Kafka](https://kafka.apache.org/)
+   - [Spring Security](https://spring.io/projects/spring-security)
 
 <br/>
  <div>
