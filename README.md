@@ -26,8 +26,9 @@
   - [Mockito](https://site.mockito.org/)
 
    ##### Coming ⏳
+   - [Spring Web Flux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html)
    - [Kafka](https://kafka.apache.org/)
-   - [Spring Security](https://spring.io/projects/spring-security)
+
 
 <br/>
  <div>
