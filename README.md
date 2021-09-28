@@ -1,4 +1,4 @@
-### Olá! Eu sou o Iago Duarte de Aguiar 👋
+### Olá! Eu me chamo Iago 👋
 
 ## Eu sou um apaixonado por tecnologia e um eterno estudante.
 
