@@ -12,22 +12,28 @@
   ### Skills
 
 
-  - [Java](https://www.java.com/pt-BR/)
-  - [Spring](https://spring.io/)
-  - [GIT](https://github.com/iagoAguiar)
-  - [Swagger](https://swagger.io/)
-  - [Lombok](https://projectlombok.org/)
-  - [MongoDB](https://www.mongodb.com/pt-br/)
-  - [Mapstruct](https://mapstruct.org/)
-  - [Docker](https://www.docker.com/)
-  - [Bean Validation](https://beanvalidation.org/)
-  - [JPA](https://www.oracle.com/java/technologies/persistence-jsp.html)
-  - [Junit](https://junit.org/junit5/)
-  - [Mockito](https://site.mockito.org/)
+![Java](https://img.shields.io/badge/-Java-39404b?style=flat&logo=Java)
+![Spring](https://img.shields.io/badge/-Spring-39404b?style=flat&logo=Spring)
+![Git](https://img.shields.io/badge/-Git-39404b?style=flat&logo=git)
+![MongoDB](https://img.shields.io/badge/-MongoDB-39404b?style=flat&logo=MongoDB)
+![Swagger](https://img.shields.io/badge/-Swagger-39404b?style=flat&logo=Swagger)
+![Docker](https://img.shields.io/badge/-Docker-39404b?style=flat&logo=Docker)
+
+![HTML](https://img.shields.io/badge/-HTML5-39404b?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-39404b?style=flat&logo=CSS3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-39404b?style=flat&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-39404b?style=flat&logo=typescript)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-39404b?style=flat&logo=postgresql&logoColor=3d9fee)
+
+![JPA](https://img.shields.io/badge/-JPA-39404b?style=flat&logo=JPA)
+![Junit](https://img.shields.io/badge/-Junit-39404b?style=flat&logo=Junit)
+![Mockito](https://img.shields.io/badge/-Mockito-39404b?style=flat&logo=Mockito)
+![Lombok](https://img.shields.io/badge/-Lombok-39404b?style=flat&logo=Lombok)
+![Mapstruct](https://img.shields.io/badge/-Mapstruct-39404b?style=flat&logo=Mapstruct)
+
 
    ##### Coming ⏳
-   - [Kafka](https://kafka.apache.org/)
-   - [Spring Web Flux](https://docs.spring.io/spring-framework/docs/current/reference/html/web-reactive.html)
+   ![Kafka](https://img.shields.io/badge/-Kafka-39404b?style=flat&logo=Kafka)
 
 
 <br/>
