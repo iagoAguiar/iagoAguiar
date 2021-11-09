@@ -34,6 +34,9 @@
 
    ##### Coming ⏳
    ![Kafka](https://img.shields.io/badge/-Kafka-39404b?style=flat&logo=Kafka)
+   ![NodeJS](https://img.shields.io/badge/-NodeJS-39404b?style=flat&logo=Kafka)
+   ![ReactJS](https://img.shields.io/badge/-ReactJS-39404b?style=flat&logo=AWS)
+
    ![AWS](https://img.shields.io/badge/-AWS-39404b?style=flat&logo=AWS)
 
 
