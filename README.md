@@ -2,7 +2,7 @@
 
 ## Eu sou um apaixonado por tecnologia e um eterno estudante.
 
-- 🔭 Atualmente estou me aprofundando em Back-end, com foco em Java
+- 🔭 Atualmente estou me aprofundando em Back-end, com foco em Java.
 - 👯 Estou em busca da minha primeira oportunidade profissional como dev.
 - ⚡ Fun fact: Meu principal hobby é leitura, quando me prendo em um livro parece que eu estou passando pela jornada e não lendo uma história.
 
@@ -35,10 +35,10 @@
 
    ##### Coming ⏳
 
-   <br/>
 
-   ![Kafka](https://img.shields.io/badge/-Kafka-39404b?style=flat&logo=Kafka)
-    ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+   
+
+  ![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)
    ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) 
 
 
